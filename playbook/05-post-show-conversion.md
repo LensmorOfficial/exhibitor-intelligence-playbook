@@ -39,7 +39,30 @@ Best,
 
 ## ROI calculation template
 
+**Core formula**
+
 ROI = (Event-attributed revenue - Total event cost) / Total event cost
+
+**Expanded model (recommended)**
+
+1. Qualified leads = Total leads x Qualification rate
+2. Opportunities = Qualified leads x Opportunity rate
+3. Expected revenue = Opportunities x Average contract value x Win rate
+4. ROI = (Expected revenue - Total event cost) / Total event cost
+
+**Example**
+
+- Total leads: 180
+- Qualification rate: 20% => 36 qualified leads
+- Opportunity rate: 30% => 10.8 opportunities
+- ACV: $25,000
+- Win rate: 25% => Expected revenue = 10.8 x 25,000 x 0.25 = $67,500
+- Event cost: $45,000
+- ROI = (67,500 - 45,000) / 45,000 = 0.5 (50%)
+
+**Sensitivity check**
+
+If win rate drops to 15%, expected revenue = 10.8 x 25,000 x 0.15 = $40,500, turning ROI negative. Use this to set minimum qualification and win-rate targets before committing budget.
 
 ## Deliverable
 
