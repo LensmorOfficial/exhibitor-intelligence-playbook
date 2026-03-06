@@ -27,7 +27,7 @@ Trade shows are expensive, noisy, and full of distractions. Winning exhibitors t
 
 ## About Lensmor
 
-[Lensmor](https://www.lensmor.com/) is an AI-native event intelligence platform that helps B2B teams discover trade shows, analyze exhibitors, and generate qualified leads before the event starts.
+[Lensmor](https://www.lensmor.com/) is an AI-native event intelligence platform that helps B2B teams discover trade shows, analyze exhibitors (using [pre-show competitor analysis](https://www.lensmor.com/blog/pre-show-competitor-analysis-template)), and generate [qualified leads](https://www.lensmor.com/blog/trade-show-lead-capture) before the event starts.
 
 ## More Open Source from Lensmor
 
