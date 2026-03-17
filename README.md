@@ -14,6 +14,12 @@
 
 > The complete playbook for B2B teams to maximize trade show ROI — from pre-show research to post-show conversion.
 
+## What's New
+
+**March 2026**
+- Added [Chapter 07: Trade Show Intelligence in the AI Agent Era](playbook/07-ai-agent-era.md) — practical guide to using AI for exhibitor research, outreach personalization, onsite prioritization, and post-show follow-up
+- Updated key 2026 trade show dates across major verticals
+
 ## Why this playbook
 
 Trade shows are expensive, noisy, and full of distractions. Winning exhibitors treat events as a full-funnel program — from event selection and exhibitor profiling to pre-show outreach, onsite qualifying, and post-show conversion. This playbook provides a practical, step-by-step SOP designed for B2B sales and marketing teams who need repeatable, measurable outcomes.
@@ -26,6 +32,31 @@ Trade shows are expensive, noisy, and full of distractions. Winning exhibitors t
 - [04. Onsite Execution](playbook/04-onsite-execution.md)
 - [05. Post-Show Conversion](playbook/05-post-show-conversion.md)
 - [06. Tools and Templates](playbook/06-tools-and-templates.md)
+- [07. Trade Show Intelligence in the AI Agent Era](playbook/07-ai-agent-era.md)
+
+## Key Trade Shows in 2026
+
+A selection of high-value events for B2B exhibitors across major verticals. Full dataset available at [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar).
+
+| Show | Dates | Location | Vertical |
+| --- | --- | --- | --- |
+| CES | Jan 6–9 | Las Vegas, US | Technology |
+| NRF Big Show | Jan 11–14 | New York, US | Retail |
+| Arab Health | Jan 26–29 | Dubai, UAE | Healthcare |
+| ISE | Feb 3–6 | Barcelona, Spain | Technology / AV |
+| Gulfood | Feb 17–21 | Dubai, UAE | Food & Beverage |
+| MWC Barcelona | Mar 2–5 | Barcelona, Spain | Mobile / Telecom |
+| ITB Berlin | Mar 3–5 | Berlin, Germany | Travel & Tourism |
+| Embedded World | Mar 10–12 | Nuremberg, Germany | Technology / IoT |
+| HIMSS | Mar 9–13 | Orlando, US | Healthcare IT |
+| Hannover Messe | Apr 13–17 | Hannover, Germany | Manufacturing |
+| Interpack | May 7–13 | Dusseldorf, Germany | Packaging |
+| COMPUTEX | Jun 2–6 | Taipei, Taiwan | Technology |
+| InfoComm | Jun 7–13 | Las Vegas, US | AV / Pro Tech |
+| SIAL Paris | Oct 18–22 | Paris, France | Food & Beverage |
+| GITEX Global | Oct 13–17 | Dubai, UAE | Technology |
+| MEDICA | Nov 16–19 | Dusseldorf, Germany | Healthcare |
+| Electronica | Nov 10–13 | Munich, Germany | Electronics |
 
 ## About Lensmor
 
